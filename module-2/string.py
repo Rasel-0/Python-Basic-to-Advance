@@ -24,6 +24,11 @@
 # print(f"my age is {age}")
 # print(f"I have {age/2:.2f} taka")
 
+# txt = "The best things in life are free!"
+# # print("free" in txt)
+# txt = "The best things in life are free!"
+# print("expensive" not in txt)
+
 #print 2 decimal number
 x=3
 print(type(f"{x:.2f}"))

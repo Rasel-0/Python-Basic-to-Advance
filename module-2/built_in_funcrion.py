@@ -15,6 +15,9 @@ nun = lambda x:x**x
 # print("multiple :",ghun(3))
 # print("power :",nun(3))
 
+x = lambda a : a + 10
+print(x(5))
+
 nums = [1, 2, 3]
 print(list(map(ghun,nums)))
 print(list(map(nun,nums)))
