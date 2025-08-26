@@ -5,5 +5,4 @@ for x in num :
        odd.append(x) 
 # odd.sort()
 print(odd)
-print( [x for x in num if x % 2 == 1])
 print(list(filter(lambda x : x % 2 == 1, num)))
